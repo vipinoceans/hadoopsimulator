@@ -1,0 +1,5 @@
+{
+  "name": "Hadoop Ecosystem Flow",
+  "description": "A polished, animated step-by-step simulation of how data flows through the Hadoop ecosystem, from ingestion to processing and storage.",
+  "requestFramePermissions": []
+}
